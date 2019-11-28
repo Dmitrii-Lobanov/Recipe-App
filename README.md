@@ -1,3 +1,6 @@
+![Alt text](/Recipe-App/public/screenshot.png?raw=true)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
