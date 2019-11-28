@@ -1,4 +1,4 @@
-![Alt text](/Recipe-App/public/screenshot.png?raw=true)
+![Screenshot](https://raw.github.com/Dmitrii-Lobanov/Recipe-App/master/public/screenshot.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
